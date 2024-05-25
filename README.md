@@ -9,3 +9,6 @@ Currently, two official plugins are available:
 
 
 ![image](https://github.com/Kaveri-14/BMIReactJS/assets/79992972/834042ff-1e37-41f3-86f8-f00c8ce4dafd)
+
+
+![image](https://github.com/Kaveri-14/BMIReactJS/assets/79992972/7ddf077b-e5b4-4069-957b-9dae9eaf92a4)
